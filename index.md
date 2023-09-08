@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Capstone Bikes]("https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ")
+[Capstone Bikes](https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
