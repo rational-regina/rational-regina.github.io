@@ -19,9 +19,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Published Research in Mathematics](https://www.worldscientific.com/doi/abs/10.1142/S0219199713500065)
+- [Data Analytics - Springboard](https://www.credential.net/bdb12c89-8c15-4917-a8b5-f0b95e1aaf5f)
+- [Data Analyst Associate - Datacamp](https://www.datacamp.com/certificate/DAA0014467957833)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
