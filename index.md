@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Capstone Bikes](https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ)
-<img src="images/capbikrev.jpg?raw=true"/>
+<img src="images/capbikrev.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
