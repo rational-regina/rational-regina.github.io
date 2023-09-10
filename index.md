@@ -5,11 +5,11 @@
 ### Projects and Presentations
 
 [Capstone Bikes](https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ)
-<img src="images/cbrp.jpg?raw=true"/>
+<img src="images/cbrp.JPG?raw=true"/>
 
 ---
 [Adidas Macro/Micro Retail](/pdf/sample_presentation.pdf)
-<img src="images/arp.jpg?raw=true"/>
+<img src="images/arp.JPG?raw=true"/>
 
 ---
 [AEMR Case Study](https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AEMR_16814438763720/AEMRPresentation?publish=yes)
