@@ -3,8 +3,6 @@ logo: "/images/portfolio.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/ginabauernschmidt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
