@@ -12,7 +12,7 @@
 <img src="images/arp.JPG?raw=true"/></a>
 
 ---
-<a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AEMR_16814438763720/AEMRPresentation?publish=yes")
+<a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AEMR_16814438763720/AEMRPresentation?publish=yes">
 <img src="images/aemrcs.jpg?raw=true</a>
 
 ---
