@@ -4,8 +4,8 @@
 
 ### Projects and Presentations
 
-[](https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ)
-<img src="images/cbrp.JPG?raw=true"/>
+< a href="https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ">
+<img src="images/cbrp.JPG?raw=true"/></a>
 
 ---
 [](/pdf/sample_presentation.pdf)
