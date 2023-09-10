@@ -13,7 +13,7 @@
 
 ---
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AEMR_16814438763720/AEMRPresentation?publish=yes">
-<img src="images/aemrcs.jpg?raw=true"></a>
+<img src="images/aemrcs.jpg?raw=true"/></a>
 
 ---
 
