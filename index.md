@@ -24,4 +24,4 @@
 ---
 
 ### Published Research in Mathematics
-- [Birack Modules and Their Link Invariants (Quantum Algebra, Geometric Topology)](https://www.worldscientific.com/doi/abs/10.1142/S0219199713500065)
+- [Birack Modules and Their Link Invariants](https://www.worldscientific.com/doi/abs/10.1142/S0219199713500065)
