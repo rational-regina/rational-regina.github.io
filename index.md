@@ -17,6 +17,7 @@
 
 ### Certifications
 ⭐ [Data Analytics - Springboard](https://www.credential.net/bdb12c89-8c15-4917-a8b5-f0b95e1aaf5f)
+<br>
 ⭐ [Data Analyst Associate - Datacamp](https://www.datacamp.com/certificate/DAA0014467957833)
 
 ---
