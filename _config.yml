@@ -3,7 +3,7 @@ logo: "/images/portfolio.png?raw=true" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
   <b>Data Analyst</b>
   <br><br>
-  <a href="https://www.linkedin.com/in/ginabauernschmidt/">View My LinkedIn Profile</a> 
+ 🤝 <a href="https://www.linkedin.com/in/ginabauernschmidt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
