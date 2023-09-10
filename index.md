@@ -8,8 +8,8 @@
 <img src="images/capbikrev.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Adidas Macro/Micro Retail](/pdf/sample_presentation.pdf)
+<img src="images/adthumb.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
