@@ -9,7 +9,7 @@
 
 ---
 [Adidas Macro/Micro Retail](/pdf/sample_presentation.pdf)
-<img src="images/adthumb.png?raw=true"/>
+<img src="images/adthumb.pdf?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
