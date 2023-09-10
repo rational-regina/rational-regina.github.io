@@ -1,8 +1,6 @@
-## Portfolio
+## Data Analytics Portfolio
 
 ---
-
-### Projects and Presentations
 
 <a href="https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ">
 <img src="images/cbrp.JPG?raw=true"/></a>
