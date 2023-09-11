@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>Data Analyst</b>
   <br><br>
  🌐 <a href="https://www.linkedin.com/in/ginabauernschmidt/">View My LinkedIn Profile</a>
- 📩 <a href="mailto: gina.bauernschmidt@gmail.com">E-mail Me</a> 
+ 📩 <a href="mailto:gina.bauernschmidt@gmail.com">E-mail Me</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
