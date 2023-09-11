@@ -6,7 +6,7 @@
 <img src="images/cbrp.JPG?raw=true"/></a>
 
 ---
-<a href="/pdf/sample_presentation.pdf">
+<a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AdidasPresentation/ADIDAS?publish=yes">
 <img src="images/arp.JPG?raw=true"/></a>
 
 ---
