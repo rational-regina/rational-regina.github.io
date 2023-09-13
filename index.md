@@ -3,7 +3,7 @@
 ---
 
 <a href="https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ">
-<img src="images/cbrp.JPG?raw=true"/ width=350px height=auto></a>
+<img src="images/cbrp.JPG?raw=true"/ width=400px height=auto></a>
 
 ---
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AdidasPresentation/ADIDAS?publish=yes">
