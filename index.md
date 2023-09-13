@@ -4,7 +4,7 @@
 
 <a href="https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ">
 <img src="images/cbrp.JPG?raw=true" width=400px height=auto/></a>
-<br>
+<br><br>
 •	Analyzed more than 3 million data points and engineered new features to forecast a 65% profit surge (YoY) following the integration of a new fleet of electric bikes.
 <br>
 •	Identified regions needing bike redistribution using clustering in geospatial analysis.
