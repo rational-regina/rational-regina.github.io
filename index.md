@@ -15,6 +15,7 @@
 ---
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AdidasPresentation/ADIDAS?publish=yes">
 <img src="images/arp.JPG?raw=true" width=400px height=auto/></a>
+
 ### Highlights
 * Evaluated market performance of Adidas retailers on a nationwide and store-by-store basis, considering factors such as location, sales methods, product categories, and profit margins.
 * Tools Used: <i>Excel, Tableau</i>
@@ -23,6 +24,9 @@
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AEMR_16814438763720/AEMRPresentation?publish=yes">
 <img src="images/aemrcs.jpg?raw=true" width=400px height=auto/></a>
 
+### Highlights
+* Investigated
+* Tools Used: <i>Tableau</i>
 ---
 
 ### Certifications
