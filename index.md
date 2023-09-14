@@ -4,8 +4,7 @@
 
 <a href="https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ">
 <img src="images/cbrp.JPG?raw=true" width=400px height=auto/></a>
-
---- 
+<p></p>
 ## Highlights
 * Large dataset: more than 3 million data points
 * Engineered new features:
