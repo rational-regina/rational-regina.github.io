@@ -4,30 +4,16 @@
 
 <a href="https://colab.research.google.com/drive/1p6aGtOkNsKqmbNHmgJnNV80ZVVy2wNkJ">
 <img src="images/cbrp.JPG?raw=true" width=400px height=auto/></a>
-<p>
-## Highlights
-* Large dataset: more than 3 million data points
-* Engineered new features:
-* Forecasted a 65% profit surge (YoY) following the integration of a new fleet of electric bikes.
-* Identified regions needing bike redistribution using clustering in geospatial analysis.
-* Tools Used: <i>Python (Pandas, NumPy, FBProhet), Colab, Tableau</i>
-</p>
 
 ---
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AdidasPresentation/ADIDAS?publish=yes">
 <img src="images/arp.JPG?raw=true" width=400px height=auto/></a>
 
-### Highlights
-* Evaluated market performance of Adidas retailers on a nationwide and store-by-store basis, considering factors such as location, sales methods, product categories, and profit margins.
-* Tools Used: <i>Excel, Tableau</i>
 
 ---
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AEMR_16814438763720/AEMRPresentation?publish=yes">
 <img src="images/aemrcs.jpg?raw=true" width=400px height=auto/></a>
 
-### Highlights
-* Investigated
-* Tools Used: <i>Tableau</i>
 ---
 
 ### Certifications
