@@ -8,6 +8,7 @@
 ---
 <a href="https://public.tableau.com/app/profile/regina.bauernschmidt/viz/AdidasPresentation/ADIDAS?publish=yes">
 <img src="images/arp.JPG?raw=true" width=400px height=auto/></a>
+
 ---
 <a href="https://github.com/rational-regina/Python/blob/main/Southern%20Water%20Corps.ipynb">
 <img src="images/SWC.JPGraw=true" width=400px height=auto/></a>
